@@ -55,7 +55,7 @@ It is an interactive Tableau dashboard developed to analyze e-commerce sales per
 
 ##  Dashboard Preview
 ![E-Commerce Sales Performance Dashboard](Dashboard.png)
-![E-Commerce Sales Performance Dashboard](Filters.png)
+
 ---
 
 ##  Author
